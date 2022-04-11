@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+}
+
+.box {
+    background: #cfd9e2;
+    width: 600px;
+    height: 100px;
+    display: flex;
+}
+
+.fa-grip-lines {
+    display: flex;
+    margin-left: 92%;
+    font-size: 40px;
+    color: #706be2;
+
+}
+
+.box1 {
+    background: #1a3446;
+    width: 600px;
+    height: 300px;
+
+}
+.inner-box {
+    width: 100px;
+    height: 100px;
+    background: #706be2;
+    margin-left: 45px;
+    position: relative;
+    left: 60px;
+    top: -50px;
+    border-radius: 15px;
+}
+
+
+.inner-box2 {
+    background: #7571e3;
+    width: 80px;
+    height: 40px;
+    position: absolute;
+    left: 40px;
+    top: 30px;
+    border-radius: 6px;
+
+
+}
